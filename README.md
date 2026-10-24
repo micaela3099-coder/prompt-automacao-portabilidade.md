@@ -1,0 +1,1 @@
+# prompt-automacao-portabilidade.md
